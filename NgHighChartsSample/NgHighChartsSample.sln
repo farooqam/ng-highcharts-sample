@@ -11,7 +11,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Deployment", "Deployment", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0F66F3BF-2D60-4229-9E03-0C6B621839BC}"
 	ProjectSection(SolutionItems) = preProject
-		..\data.csv = ..\data.csv
+		..\results.csv = ..\results.csv
 	EndProjectSection
 EndProject
 Global
